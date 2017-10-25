@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="btn_cancel_msg">Отключить</string>
+     <string name="btn_ok_msg">Повтор</string>
+     <string name="msg_battery_low_temperature">Пониженная температура батареи, отключите зарядное устройство!</string>
+     <string name="msg_battery_over_temperature">Батарея вышла из строя, замените батарею!</string>
+     <string name="msg_battery_over_voltage">Избыточное напряжение, замените батарею!</string>
+     <string name="msg_charger_over_voltage">Избыточное напряжение, отключите зарядное устройство!</string>
+     <string name="msg_over_current_protection">Батарея вышла из строя, замените батарею!</string>
+     <string name="msg_safety_timer_timeout">Слишком долгое время зарядки, отключите зарядное устройство!</string>
+     <string name="thermal_clear_temperature">Перегрев модуля связи. Все функции восстановлены после сброса.</string>
+     <string name="thermal_over_temperature">Ограничение функционала модуля связи из-за перегрева. Модуль связи будет откл., если перегрев продолжится. Охладите устройство или откл. 4G в настройках устройства.</string>
+     <string name="title_battery_low_temperature">Низкая температура батареи</string>
+     <string name="title_battery_over_temperature">Температура батареи</string>
+     <string name="title_battery_over_voltage">Напряжение батареи</string>
+     <string name="title_charger_over_voltage">Напряжение заряда</string>
+     <string name="title_over_current_protection">Текущая защита</string>
+     <string name="title_safety_timer_timeout">Время зарядки</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="Add_More_Ringtones">Еще Рингтоны ...</string>
+     <string name="alarm_sound_default">Сигнал будильника по умолчанию</string>
+     <string name="app_label">Медиа хранилище</string>
+     <string name="artist_label">Артист</string>
+     <string name="notification_sound_default">Сигнал уведомления по умолчанию</string>
+     <string name="ringtone_default">Рингтон по умолчанию</string>
+     <string name="root_audio">Аудио</string>
+     <string name="root_images">Картинки</string>
+     <string name="root_videos">Видео</string>
+     <string name="uid_label">Медиа сервис</string>
+     <string name="upgrade_msg">Обновление медиа базы.</string>
+</resources>
