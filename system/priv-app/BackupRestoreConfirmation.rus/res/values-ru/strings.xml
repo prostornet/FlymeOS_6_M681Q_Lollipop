@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="allow_backup_button_label">Резервное копирование моих данных</string>
+     <string name="allow_restore_button_label">Восстановить мои данные</string>
+     <string name="backup_confirm_text">"Запрос на полное резервное копирование всех данны на подключенный компьютер. Разрешить копирование?
+
+Если вы не запрашивали резервное копирование, тогда отмените данную операцию."</string>
+     <string name="backup_confirm_title">Полное резерв. копир.</string>
+     <string name="backup_enc_password_optional">Хотите зашифровать полную резервную копию, тогда введите пароль:</string>
+     <string name="backup_enc_password_required">Так как устройство зашифровано, вы должны зашифровать и резервную копию. Пожалуйста, введите пароль:</string>
+     <string name="backup_enc_password_text">Пожалуйста, введите пароль для шифрования полной резервной копии данных. Если оставить пустым, то будет применендействующий пароль резервного копирования:</string>
+     <string name="current_password_text">Пожалуйста, введите текущий пароль резервного копирования:</string>
+     <string name="deny_backup_button_label">Не делать резервное копирование</string>
+     <string name="deny_restore_button_label">Не восстанавливать</string>
+     <string name="device_encryption_backup_text">Пожалуйста, введите пароль шифрования для вашего устройства. Пароль будет использоваться также  и для шифрования архивов резервных копий.</string>
+     <string name="device_encryption_restore_text">Пожалуйста, введите пароль шифрования для вашего устройства.</string>
+     <string name="restore_confirm_text">"Предложено полное резервное копирование всех данных на подключенный настольный компьютер. Вы хотите, чтобы это произошло?
+
+Если вы не жалаете восстановить данные, тогда отмените операцию. Иначе на устройстве будут заменены все данные!"</string>
+     <string name="restore_confirm_title">Полное восстановление</string>
+     <string name="restore_enc_password_text">Если данные зашифрованны, тогда введите пароль:</string>
+     <string name="toast_backup_ended">Резервное копирование завершено</string>
+     <string name="toast_backup_started">Запущенно резервное копирпование...</string>
+     <string name="toast_restore_ended">Восстановление завершено</string>
+     <string name="toast_restore_started">Запущенно восстановление...</string>
+     <string name="toast_timeout">Время истекло</string>
+</resources>
