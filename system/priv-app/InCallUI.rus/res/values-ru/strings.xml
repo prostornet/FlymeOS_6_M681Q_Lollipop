@@ -339,7 +339,7 @@
      <string name="private_num">Скрытый номер</string>
      <string name="record">Запись</string>
      <string name="record_end_call">Завершить</string>
-     <string name="record_num">Ремарка</string>
+     <string name="record_num">Заметка</string>
      <string name="record_return_normal">Назад к вызову</string>
      <string name="redial">Повторный набор</string>
      <string name="reject_incoming">Отклонить</string>
