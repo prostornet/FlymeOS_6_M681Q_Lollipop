@@ -316,7 +316,7 @@
      <string name="onscreenMuteText">Без звука</string>
      <string name="onscreenOverflowText">Другие параметры</string>
      <string name="onscreenPauseVideoText">Приостановить видео</string>
-     <string name="onscreenRecordNumText">Ремарка</string>
+     <string name="onscreenRecordNumText">Заметка</string>
      <string name="onscreenRecordText">Запись</string>
      <string name="onscreenShowDialpadText">Клавиатура</string>
      <string name="onscreenSwapCallsText">Перевод звонка</string>
