@@ -652,7 +652,7 @@
      <string name="cert_serial">Серийный номер:</string>
      <string name="cert_valid_from">Действует с:</string>
      <string name="cert_valid_to">Срок действия:</string>
-     <string name="change_data_conn_summary">SIM-карта %d отключена. Переключить передачу данных на SIM-карту %d?</string>
+     <string name="change_data_conn_summary" formatted="false">SIM-карта %d отключена. Переключить передачу данных на SIM-карту %d?</string>
      <string name="change_data_conn_title">Переключение SIM-карты передачи данных</string>
      <string name="change_data_conn_yes">Включить</string>
      <string name="change_phone_helper_title">Средство миграции</string>
@@ -792,7 +792,7 @@
      <string name="confirm_title">Подтвердить</string>
      <string name="connect_later">Невозможно подключиться к этой сети. Попробуйте позже.</string>
      <string name="connected_via_wfa">Установлено подключение через Ассистента Wi-Fi</string>
-     <string name="connectivity_others">Ещё</string>
+     <string name="connectivity_others">Дополнительно</string>
      <string name="continue_all_caps">ПРОДОЛЖИТЬ</string>
      <string name="contributors_title">Участники</string>
      <string name="controls_label">Элементы управления</string>
@@ -892,13 +892,13 @@
      <string name="data_conn_category_title">Передача данных</string>
      <string name="data_connection_progress_message">Переключение SIM-карты займёт около 10 секунд. Подождите...</string>
      <string name="data_enable_forbidden">Текущая SIM-карта отключена. Передача данных невозможна.</string>
-     <string name="data_enabled">Передача данных</string>
+     <string name="data_enabled">Мобильный интернет</string>
      <string name="data_enabler_summary">Использовать мобильную сеть</string>
      <string name="data_enabler_title">Передача данных</string>
      <string name="data_enabler_waiting_message">Пожалуйста, подождите…</string>
      <string name="data_only">Только данные</string>
      <string name="data_sim_default_name">Нет</string>
-     <string name="data_sim_title">Передача данных по умолчанию</string>
+     <string name="data_sim_title">SIM-карта для интернета</string>
      <string name="data_size_label">Данные</string>
      <string name="data_suggest">Системные push-уведомления и облачные сервисы потребляют трафик</string>
      <string name="data_switch_started">Смена SIM-карты… Подождите минуту.</string>
@@ -1258,15 +1258,15 @@
      <string name="float_button">Плавающий значок</string>
      <string name="float_notification_summary">Новое уведомление будет отображаться во всплывающем окне</string>
      <string name="float_notification_title">Всплывающее уведомление</string>
-     <string name="flyme_account">Аккаунт Flyme</string>
-     <string name="flyme_avatar_summary">Заменить аватары контактов на аватары в стиле Flyme</string>
-     <string name="flyme_avatar_title">Аватары в стиле Flyme</string>
+     <string name="flyme_account">Аккаунт \"Flyme\"</string>
+     <string name="flyme_avatar_summary">Заменить аватары контактов на аватары в стиле \"Flyme\"</string>
+     <string name="flyme_avatar_title">Аватары в стиле \"Flyme\"</string>
      <string name="flyme_button_open_warning">Использование мобильной сети приведёт к генерированию трафика</string>
      <string name="flyme_global_searchable_description">Flyme global search for Settings</string>
      <string name="flyme_global_searchable_label">Flyme global search for Settings</string>
      <string name="flyme_lab">Лаборатория Flyme</string>
-     <string name="flyme_push_dialog_content">Если отключить Push, то нельзя будет использовать функцию поиска телефона, синхронизацию нескольких устройств, Flyme-сообщения и другие функции.</string>
-     <string name="flyme_push_dialog_title">Отключить Push?</string>
+     <string name="flyme_push_dialog_content">Если отключить Push-уведомления, то нельзя будет использовать функцию поиска телефона, синхронизацию нескольких устройств, Flyme-сообщения и другие функции.</string>
+     <string name="flyme_push_dialog_title">Отключить Push-уведомления?</string>
      <string name="flyme_push_title">Push</string>
      <string name="font_size_preview_text">Servez à ce monsieur une bière et des kiwis.</string>
      <string name="font_size_save">ОК</string>
@@ -1418,8 +1418,8 @@
      <string name="home_category_title">Главный экран</string>
      <string name="home_data_summary">Получить услугу передачи данных без SIM-карты</string>
      <string name="home_data_title">mCard</string>
-     <string name="home_key_behavior">Удерживать кнопку Домой</string>
-     <string name="home_key_behavior_double_click">Дважды нажмите кнопку Домой</string>
+     <string name="home_key_behavior">Удерживать кнопку \"Home\"</string>
+     <string name="home_key_behavior_double_click">Дважды нажмите кнопку \"Home\"</string>
      <string name="home_settings">Главный экран</string>
      <string name="home_work_profile_not_supported">Рабочие профили не поддерживаются</string>
      <string name="ignore">Пропустить</string>
@@ -1477,7 +1477,7 @@
      <string name="keep_screen_on_summary">Во время зарядки экран будет всегда включён</string>
      <string name="kernel_version">Версия ядра</string>
      <string name="key_sounds_enable_title">Клавиатура</string>
-     <string name="keyboard_back_behavior">Отклик на нажатие \"Домой\"</string>
+     <string name="keyboard_back_behavior">Отклик на нажатие \"Home\"</string>
      <string name="keyboard_layout_default_label">По умолчанию</string>
      <string name="keyboard_layout_dialog_setup_button">Настройка раскладки клавиатуры</string>
      <string name="keyboard_layout_dialog_switch_hint">Для смены нажмите CTRL + Пробел</string>
@@ -1537,7 +1537,7 @@
      <string name="license_title">Лицензия</string>
      <string name="lift_to_wake_title">Активация в вертикальном положении</string>
      <string name="light_feedback_enable_summary">Повышенный расход энергии</string>
-     <string name="light_feedback_enable_title">Подсветка Домой</string>
+     <string name="light_feedback_enable_title">Подсветка \"Home\"</string>
      <string name="link_speed_label">Скорость:</string>
      <string name="live_wallpaper">Живые обои</string>
      <string name="load_fail">Ошибка сети, попробуйте позже</string>
@@ -1968,15 +1968,15 @@
      <string name="mz_drive_mode_title">Помощь водителю включена</string>
      <string name="mz_fp_add_fingerprint">Добавить отпечаток</string>
      <string name="mz_fp_add_tip_continue">Приложите палец к кнопке</string>
-     <string name="mz_fp_add_tip_continue_press_common">Несколько раз приложите палец к кнопке \"Домой\"</string>
+     <string name="mz_fp_add_tip_continue_press_common">Несколько раз приложите палец к кнопке \"Home\"</string>
      <string name="mz_fp_add_tip_continue_press_head">Повторите это несколько раз</string>
      <string name="mz_fp_add_tip_continue_press_move">Слегка поводите по сканеру пальцем для захвата его края</string>
      <string name="mz_fp_add_tip_continue_timeout">Поднимите палец</string>
-     <string name="mz_fp_add_tip_home_key_pressed">Поместите палец на кнопку \"Домой\", но не нажимайте</string>
-     <string name="mz_fp_add_tip_home_press_head">Поместите палец на кнопку \"Домой\"</string>
+     <string name="mz_fp_add_tip_home_key_pressed">Поместите палец на кнопку \"Home\", но не нажимайте</string>
+     <string name="mz_fp_add_tip_home_press_head">Поместите палец на кнопку \"Home\"</string>
      <string name="mz_fp_add_tip_success_head">Выполнено</string>
      <string name="mz_fp_add_tip_success_summary">Операция завершена, перейдите к другим опциям</string>
-     <string name="mz_fp_add_tip_summary_head_tips">Поместите палец на кнопку Домой, и перемещайте его немного, почувствовав вибрацию</string>
+     <string name="mz_fp_add_tip_summary_head_tips">Поместите палец на кнопку \"Home\", и перемещайте его немного, почувствовав вибрацию</string>
      <string name="mz_fp_category_title">Идентификация по отпечатку</string>
      <string name="mz_fp_delete">Удалить отпечатки: %d</string>
      <string name="mz_fp_enrolled_failed">Неоднократный ввод недействительных отпечатков пальцев! Попробуйте снова.</string>
@@ -2140,7 +2140,7 @@
      <string name="networks">Операторы связи</string>
      <string name="new_access_points">Неизвестные сети</string>
      <string name="new_backup_pw_prompt">Введите новый пароль</string>
-     <string name="new_red_envelope_ring_switch_title">Звук Lucky money</string>
+     <string name="new_red_envelope_ring_switch_title">Звук \"Lucky Money\"</string>
      <string name="next">Далее</string>
      <string name="next_label">Далее</string>
      <string name="next_password_tip">Введите новый пароль ещё раз</string>
@@ -2514,9 +2514,9 @@
      <string name="red_envelope_tip_one">1. Откройте WeChat > Me > Settings > Notifications и убедитесь, что \"Оповещения о новых сообщениях\" и \"Центр уведомлений\" включены</string>
      <string name="red_envelope_tip_two_partone">2. На странице группового чата нажмите</string>
      <string name="red_envelope_tip_two_parttwo">откройте свойства чата и убедитесь, что выключен режим \"Без уведомлений\"</string>
-     <string name="red_envelope_title">Помощник для денежного конверта</string>
+     <string name="red_envelope_title">Помощник \"Lucky Money\"</string>
      <string name="red_envlop_notice">Советы:</string>
-     <string name="red_envlop_update">Для обеспечения надлежащего функционирования, Lucky Money помощник будет автоматически обновляться через Wi-Fi.</string>
+     <string name="red_envlop_update">Для обеспечения надлежащего функционирования, \"Lucky Money\" помощник будет автоматически обновляться через Wi-Fi.</string>
      <string name="refreshing">Обновление</string>
      <string name="region_picker">Выбрать регион</string>
      <string name="region_search_hint">Поиск региона</string>
@@ -3242,7 +3242,7 @@
      <string name="uninstall_text">Удалить</string>
      <string name="unknown">Неизвестно</string>
      <string name="unlock_and_open_switch_summary">Открыть чат автоматически при получении денег</string>
-     <string name="unlock_and_open_switch_title">Получить Lucky money</string>
+     <string name="unlock_and_open_switch_title">Получить \"Lucky Money\"</string>
      <string name="unlock_backup_info_summary">Выберите альтернативный способ разблокировки экрана.</string>
      <string name="unlock_change_lock_password_title">Изменить пароль разблокировки</string>
      <string name="unlock_change_lock_pattern_title">Изменить графический ключ</string>
@@ -3334,8 +3334,8 @@
      <string name="use_default_tts_settings_summary">Настройки по умолчанию переопределяют настройки приложений</string>
      <string name="use_default_tts_settings_title">Только мои настройки</string>
      <string name="use_fingprint">Отпечатки пальцев</string>
-     <string name="use_flyme_icon_summary">Заменить иконки приложений иконками в стиле Flyme</string>
-     <string name="use_flyme_icon_title">Иконки Flyme</string>
+     <string name="use_flyme_icon_summary">Заменить иконки приложений иконками в стиле \"Flyme\"</string>
+     <string name="use_flyme_icon_title">Иконки \"Flyme\"</string>
      <string name="use_location_summary">Разрешить Google использовать данные о местоположении для улучшения поиска и работы других служб</string>
      <string name="use_location_title">Местоположение и поиск Google</string>
      <string name="use_simple_password">Простой пароль</string>
@@ -3560,7 +3560,7 @@
      <string name="wave_wake_warm_tip_before">Пожалуйста, введите команду, по крайней мере, 3 слов</string>
      <string name="webview_license_title">Системная лицензия WebView</string>
      <string name="wechat_red_envelope_switch_summary">Специальное уведомление при получении денег</string>
-     <string name="wechat_red_envelope_switch_title">Помощник для денежного конверта WeChat</string>
+     <string name="wechat_red_envelope_switch_title">Помощник \"Lucky Money\" в WeChat</string>
      <string name="whether_enable_4G">Вы собираетесь включить 4G. Текущие услуги сети будут остановлены при поиске сети LTE. Продолжить?</string>
      <string name="white_list_empty">Нет контактов</string>
      <string name="widget_picker_title">Выберите виджет</string>
@@ -3736,7 +3736,7 @@
      <string name="wifi_password_exceed">Пароль не должен превышать 64 символов</string>
      <string name="wifi_poor_network_detection">Избегать плохого соединения</string>
      <string name="wifi_poor_network_detection_summary">Не использовать сети Wi-Fi с плохим интернет-соединением</string>
-     <string name="wifi_priority_changed">Первоначальный приоритет = %s, новое значение = %s</string>
+     <string name="wifi_priority_changed" formatted="false">Первоначальный приоритет = %s, новое значение = %s</string>
      <string name="wifi_priority_label">Приоритет</string>
      <string name="wifi_priority_settings_label">Настройка приоритета</string>
      <string name="wifi_priority_settings_summary">Нажмите, чтобы установить приоритет сети</string>
