@@ -2770,7 +2770,7 @@
      <string name="secure_lock_encryption_warning">Поскольку включена служба специальных возможностей, блокировка экрана будет отключена и надёжность защиты зашифрованных данных может быть снижена.</string>
      <string name="security_enable_widgets_disabled_summary">Отключено администратором</string>
      <string name="security_enable_widgets_title">Включить виджеты</string>
-     <string name="security_items_title">Защита паролем</string>
+     <string name="security_items_title">Защита ввода паролей</string>
      <string name="security_passwords_title">Пароли</string>
      <string name="security_patch">Дата обновления безопасности Android</string>
      <string name="security_settings_billing_desc">Это приложение может списывать деньги с вашего счёта:</string>
@@ -3339,7 +3339,7 @@
      <string name="use_location_summary">Разрешить Google использовать данные о местоположении для улучшения поиска и работы других служб</string>
      <string name="use_location_title">Местоположение и поиск Google</string>
      <string name="use_simple_password">Простой пароль</string>
-     <string name="use_system_input_panel">Введите пароль с помощью системной клавиатуры.</string>
+     <string name="use_system_input_panel">Вводить пароли только с помощью системной клавиатуры.</string>
      <string name="use_system_language_to_select_input_method_subtypes">Язык системы</string>
      <string name="user_account_title">Аккаунт для контента</string>
      <string name="user_add_on_lockscreen_menu">Добавлять с заблокир. экрана</string>
