@@ -66,7 +66,7 @@
      <string name="heart_testing">Measuring</string>
      <string name="heart_title">Heart Rate Measurement</string>
      <string name="hello_world">Hello world!</string>
-     <string name="hert_note">Heart rate, typically referring to resting heart rate, is the number of heart beats per minute while the person is at rest. The heart rate can vary with age, gender, and other physiological factors. Generally the younger an individual is, the faster his or heart beats. The elderly and the male have lower heart rates than the young and the female, as is a normal biological phenomenon. An adult&apos;s normal resting heart rate ranges from 60 to 100 bpm, while the ideal range is 55 to 70 bpm. Compared with ordinary grown-ups, athletes&apos; hearts beat noticeably slower, at about 50 bpm.</string>
+     <string name="hert_note">Heart rate, typically referring to resting heart rate, is the number of heart beats per minute while the person is at rest. The heart rate can vary with age, gender, and other physiological factors. Generally the younger an individual is, the faster his or heart beats. The elderly and the male have lower heart rates than the young and the female, as is a normal biological phenomenon. An adults normal resting heart rate ranges from 60 to 100 bpm, while the ideal range is 55 to 70 bpm. Compared with ordinary grown-ups, athletes hearts beat noticeably slower, at about 50 bpm.</string>
      <string name="hert_test_aging">Remeasure</string>
      <string name="hint_press_finger">Place finger on Home button to start measuring</string>
      <string name="intent_handle">intent need to be handled</string>
@@ -250,8 +250,8 @@
      <string name="mzuc_download">Загрузить</string>
      <string name="mzuc_download_fail">Ошибка загрузки</string>
      <string name="mzuc_download_finish_install">Загрузка завершена, нажмите для установки</string>
-     <string name="mzuc_download_finish_s">%s V%s загрузка завершена</string>
-     <string name="mzuc_download_progress_desc_s">Загрузка %s %s</string>
+     <string name="mzuc_download_finish_s" formatted="false">%s V%s загрузка завершена</string>
+     <string name="mzuc_download_progress_desc_s" formatted="false">Загрузка %s %s</string>
      <string name="mzuc_downloading">Загрузка</string>
      <string name="mzuc_file_size_s">Размер: %s</string>
      <string name="mzuc_found_update_s">Доступно обновление: %s</string>
@@ -271,12 +271,12 @@
      <string name="mzuc_update_immediately">Обновить сейчас</string>
      <string name="mzuc_update_later">Напомнить позже</string>
      <string name="mzuc_update_mobile_network">Использовать для загрузки мобильную сеть?</string>
-     <string name="mzuc_update_msg_title_s">%s V%s</string>
-     <string name="mzuc_update_title_s">%s V%s версия</string>
+     <string name="mzuc_update_msg_title_s" formatted="false">%s V%s</string>
+     <string name="mzuc_update_title_s" formatted="false">%s V%s версия</string>
      <string name="mzuc_wait_tip">Пожалуйста, подождите</string>
      <string name="mzuc_warn_later">Напомнить позже</string>
-     <string name="noti_text_new_icon">Click to view details</string>
-     <string name="noti_tittle_new_icon">Meizu step invites you to experience</string>
+     <string name="noti_text_new_icon">Нажмите для просмотра деталей</string>
+     <string name="noti_tittle_new_icon">Meizu приглашает Вас к приключениям</string>
      <string name="notifications_summary_exceed_target">%d шагов сверх намеченного плана. Так держать!</string>
      <string name="notifications_summary_target">Вы достигли своей цели!</string>
      <string name="notifications_summary_within_target">%d шагов до намеченного плана!</string>
