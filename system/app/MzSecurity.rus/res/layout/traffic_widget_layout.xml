@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+	android:gravity="center_vertical" 
+	android:orientation="horizontal" 
+	android:id="@id/safe_widget_layout" 
+	android:background="@drawable/border" 
+	android:layout_width="fill_parent" 
+	android:layout_height="57.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout 
+	android:layout_gravity="center" 
+	android:layout_width="38.0dip" 
+	android:layout_height="38.0dip" 
+	android:layout_marginStart="12.0dip" 
+	android:layout_marginEnd="10.0dip">
+        <ImageView 
+		android:id="@id/screen_donut_progress" 
+		android:layout_width="38.0dip" 
+		android:layout_height="38.0dip" />
+        <ImageView 
+		android:id="@id/no_sim_donut_progress" 
+		android:background="@drawable/traffic_dount_prgress_no_sim" 
+		android:layout_width="36.0dip" 
+		android:layout_height="36.0dip" />
+    </FrameLayout>
+    <LinearLayout 
+	android:gravity="center_vertical" 
+	android:id="@id/month_remain_linerlayout" 
+	android:layout_width="wrap_content" 
+	android:layout_height="wrap_content" 
+	android:layout_marginEnd="8.0dip">
+        <TextView 
+		android:textSize="13.0sp" 
+		android:textColor="#ffffffff" 
+		android:id="@id/remain_summary" 
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content" 
+		android:text="@string/remainTraffic" 
+		android:layout_marginEnd="4.0dip" />
+        <FrameLayout 
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content">
+            <TextView 
+			android:textSize="14.0sp" 
+			android:id="@id/no_sim_month_remain" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" 
+			android:text="--MB" 
+			android:alpha="0.4" 
+			style="@style/Widget.Flyme.Light.TextView.Little.Medium" />
+            <ImageView 
+			android:id="@id/month_left_value" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" />
+        </FrameLayout>
+    </LinearLayout>
+    <ImageView 
+	android:background="#ffffffff" 
+	android:layout_width="1.0sp" 
+	android:layout_height="10.0dip" />
+    <LinearLayout 
+	android:gravity="center_vertical" 
+	android:orientation="horizontal" 
+	android:id="@id/day_used_linerlayout" 
+	android:layout_width="fill_parent" 
+	android:layout_height="wrap_content" 
+	android:layout_marginStart="8.0dip">
+        <TextView 
+		android:textSize="13.0sp" 
+		android:textColor="#11ffffff" 
+		android:id="@id/day_used_title" 
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content" 
+		android:text="@string/DayUsed" 
+		android:layout_marginEnd="4.0dip" />
+        <FrameLayout 
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content">
+            <TextView 
+			android:textSize="14.0sp" 
+			android:id="@id/no_sim_day_used" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" 
+			android:text="--MB" 
+			android:alpha="0.4" 
+			style="@style/Widget.Flyme.Light.TextView.Little.Medium" />
+            <ImageView 
+			android:id="@id/day_used_value" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" />
+        </FrameLayout>
+    </LinearLayout>
+</LinearLayout>
