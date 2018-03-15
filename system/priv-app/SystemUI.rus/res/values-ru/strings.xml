@@ -196,7 +196,7 @@
     <string name="fake_notification_tips">%1$d новых уведомлений</string>
     <string name="qs_header_date_main_pattern12">%s a</string>
     <string name="qs_header_date_main_pattern24">%s</string>
-    <string name="qs_header_date_local_pattern">E, MMM dd</string>
+    <string name="qs_header_date_local_pattern">EEEE, MMM dddd</string>
     <string name="notification_reply">Ответить</string>
     <string name="allow_notification">Разрешить уведомления</string>
     <string name="not_remind">Разрешить уведомления, но без оповещений</string>
